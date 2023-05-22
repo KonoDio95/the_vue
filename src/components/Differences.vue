@@ -1,5 +1,5 @@
 <template>
-    <h1>Diferenças (React e Angular)</h1>
+    <h3>Diferenças (React e Angular)</h3>
     <ul>
         <li>
             <strong>Abordagem de renderização:</strong>
@@ -44,7 +44,7 @@
     </ul>
 
      
-    <h1>Similaridades (React e Angular)</h1>
+    <h3>Similaridades (React e Angular)</h3>
     <ul>
         <li>
             <strong>Componentização:</strong>

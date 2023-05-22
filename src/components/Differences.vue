@@ -1,5 +1,5 @@
 <template>
-    <h1>Diferenças</h1>
+    <h1>Diferenças (React e Angular)</h1>
     <ul>
         <li>
             <strong>Abordagem de renderização:</strong>
@@ -44,7 +44,7 @@
     </ul>
 
      
-    <h1>Similaridades</h1>
+    <h1>Similaridades (React e Angular)</h1>
     <ul>
         <li>
             <strong>Componentização:</strong>
@@ -84,12 +84,4 @@
             </p>
         </li>
     </ul>
-
-    <p>
-        É importante lembrar que essas são apenas algumas das diferenças e
-        similaridades entre o Vue.js e outros frameworks. A escolha do framework
-        mais adequado para um projeto específico depende das necessidades do
-        projeto, das preferências da equipe de desenvolvimento e do ecossistema em
-        torno do framework.
-    </p>
 </template>

@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Comunity from '../components/Comunity.vue'
+import Examples from '../components/Examples.vue'
 </script>
 
 <template>
   <main>
-    <Comunity />
+    <Examples />
   </main>
 </template>

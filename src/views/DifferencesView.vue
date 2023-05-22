@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import Comunity from '../components/Comunity.vue'
+import Differences from '../components/Differences.vue'
 </script>
 
 <template>
   <main>
-    <Comunity />
+    <Differences />
   </main>
 </template>

@@ -5,10 +5,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <!-- <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" /> -->
 
     <div class="wrapper">
-      <HelloWorld msg="O Vue.js!" />
+      <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+      <HelloWorld msg="Vue.js!" />
 
       <nav>
         <RouterLink to="/">O que é Vue.js?</RouterLink>
@@ -17,6 +18,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/examples">Projetos reais desenvolvidos com Vue.js</RouterLink>
         <RouterLink to="/differences">Diferenças</RouterLink>
         <RouterLink to="/similarities">Similaridades</RouterLink>
+        <RouterLink to="/group">Grupo</RouterLink>
       </nav>
     </div>
   </header>

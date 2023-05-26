@@ -45,13 +45,4 @@
         </p>
         </li>
     </ul>
-
-    <p>
-        Em resumo, a comunidade Vue.js é ativa, acolhedora e colaborativa. É um
-        lugar onde os desenvolvedores podem se conectar, aprender, compartilhar
-        conhecimentos e se beneficiar do suporte mútuo. Através da comunidade
-        Vue.js, os desenvolvedores podem expandir suas habilidades, descobrir
-        melhores práticas e contribuir para o crescimento e aprimoramento contínuos
-        do framework.
-    </p>
 </template>

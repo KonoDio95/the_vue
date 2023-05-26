@@ -1,6 +1,6 @@
 <template>
     <h1>Grupo formado por:</h1>
-    <ul>
+    <ul class="b_1">
         <li>Bruno Mendes</li>
         <li>Carlos Alexandre</li>
         <li>Estevão Lucrécio</li>
@@ -9,7 +9,7 @@
 </template>
 
 <style>
-li{
+.b_1{
     font-size: 1.5em;
 }
 </style>

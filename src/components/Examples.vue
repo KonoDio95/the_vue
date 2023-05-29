@@ -10,11 +10,11 @@
         </li>
         <br>
         <li>
-            <strong>Baidu</strong> - O Baidu, o principal motor de busca da China, adotou o Vue.js para o desenvolvimento de várias de suas ferramentas e serviços.
+            <strong>Xiaomi MIUI</strong> - A interface de usuário personalizada da Xiaomi para seus smartphones, conhecida como MIUI, é desenvolvida com Vue.js. Ela oferece uma experiência fluida e rica em recursos.
         </li>
         <br>
         <li>
-            <strong>Xiaomi MIUI</strong> - A interface de usuário personalizada da Xiaomi para seus smartphones, conhecida como MIUI, é desenvolvida com Vue.js. Ela oferece uma experiência fluida e rica em recursos.
+            <strong>Baidu</strong> - O Baidu, o principal motor de busca da China, adotou o Vue.js para o desenvolvimento de várias de suas ferramentas e serviços.
         </li>
         <br>
         <li>

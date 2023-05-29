@@ -10,7 +10,7 @@
     <p>
         O Vue foi criado pelo desenvolvedor independente chinês Evan You, após trabalhar para o Google usando o AngularJS em
         vários projetos. Posteriormente, ele resumiu o pensamento por trás do processo de criação do Vue: "Pensei, e se eu
-        pudesse retirar somente a parte que realmente gostava do Angular e criar algo muito leve?".[9] O primeiro commit ao
+        pudesse retirar somente a parte que realmente gostava do Angular e criar algo muito leve?". O primeiro commit ao
         código-fonte do projeto data de julho de 2013, e o framework foi lançado oficialmente em fevereiro do ano seguinte,
         em 2014.
     </p>

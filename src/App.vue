@@ -13,9 +13,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
         <RouterLink to="/">O que é Vue.js?</RouterLink>
-        <RouterLink to="/community">Comunidade</RouterLink>
-        <RouterLink to="/why">Por que escolher Vue.js</RouterLink>
         <RouterLink to="/examples">Projetos reais desenvolvidos com Vue.js</RouterLink>
+        <RouterLink to="/why">Por que escolher Vue.js</RouterLink>
+        <RouterLink to="/community">Comunidade</RouterLink>
         <RouterLink to="/differences">Diferenças</RouterLink>
         <RouterLink to="/similarities">Similaridades</RouterLink>
         <RouterLink to="/group">Grupo</RouterLink>

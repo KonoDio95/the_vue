@@ -25,7 +25,14 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <RouterView />
 </template>
+<style>
+.ot_imgs{
+  width: 100%;
+  margin: 0.5em;
+  border-radius: 10px;
+}
 
+</style>
 <style scoped>
 header {
   line-height: 1.5;

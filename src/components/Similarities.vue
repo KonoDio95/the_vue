@@ -39,4 +39,5 @@
             </p>
         </li>
     </ul>
+    <img alt="Super Hero" class="ot_imgs" src="@/assets/imgs/4.jpg"/>
 </template>

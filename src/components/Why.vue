@@ -1,7 +1,8 @@
 <template>
     <h3>Por que o Vue.js?</h3>
     <p>
-        Se você deseja facilidade de aprendizado e uso, com uma sintaxe intuitiva e amigável.
+        Apesar de não ser amplamente utilizado por empresas de grande porte, se o que você deseja facilidade de 
+        aprendizado e uso, com uma sintaxe intuitiva e amigável.
         O Vue.js é a escolha certa, ele é acessível tanto para desenvolvedores experientes quanto para iniciantes.
         Se você já está familiarizado com HTML, CSS e JavaScript, poderá começar a utilizar o Vue.js rapidamente.
     </p>
@@ -25,4 +26,5 @@
         Por fim, a documentação abrangente do Vue.js facilita o aprendizado e o desenvolvimento rápido de aplicativos com o framework, por ser bem organizada, repleta de exemplos 
         e guias detalhados.
     </p>
+    <img alt="Dados" class="ot_imgs" src="@/assets/imgs/2.jpg"/>
 </template>
